@@ -1,2 +1,1 @@
-readme 
-hello this is 0x02-fun
+0x02. C - Functions, nested loops
