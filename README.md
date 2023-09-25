@@ -1,1 +1,1 @@
-0x02. C - Functions, nested loops
+This is the readme file of this project
